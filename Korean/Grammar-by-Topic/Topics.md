@@ -5,6 +5,8 @@
 ### General
 
 - [Predicates](./Predicates.md)
+- [Tense](./Tenses.md)
+- [Aspect](./Aspect.md)
 - [아-어](./아-어.md)
 
 ### Conjugation
