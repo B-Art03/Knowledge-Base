@@ -19,10 +19,6 @@ This form is not common in conversations and rather used in writing. For I use "
 
 [When to use 아 or 어 (or 여여)](./아-어.md)
 
-## 있다
-
-
-
 # Aspect
 
 (I haven't looked into how Korean does aspect and if it's common for this form. I'll update or remove this at a later point. From what I saw this won't be explained until HTSK Lesson 18)
