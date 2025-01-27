@@ -9,7 +9,7 @@ This form is not common in conversations and rather used in writing. For I use "
 | :----------------: | :------: | :----: |
 | ~았다, ~었다, or 였아 * | ~ㄴ다 / ~는다 | ~겠다 |
 
-[When to use 아 or 어 (or 여여)](./아-어.md)
+*[When to use 아 or 어 (or 여여)](./아-어.md)
 
 ## Adjectives
 
@@ -17,7 +17,7 @@ This form is not common in conversations and rather used in writing. For I use "
 | :----------------: | :------: | :----: |
 | ~았다, ~었다, or 였아 | Use Infinitive | ~겠다 |
 
-[When to use 아 or 어 (or 여여)](./아-어.md)
+*[When to use 아 or 어 (or 여여)](./아-어.md)
 
 # Aspect
 
