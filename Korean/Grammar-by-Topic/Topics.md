@@ -7,6 +7,7 @@
 - [Predicates](./Predicates.md)
 - [Tense](./Tenses.md)
 - [Aspect](./Aspect.md)
+- [Honorifics](./Honorifics.md)
 - [아-어](./아-어.md)
 
 ### Conjugation
