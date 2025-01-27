@@ -13,3 +13,4 @@ This is a summary of the chapters on https://www.howtostudykorean.com/
 - [Lesson 5](./Unit1/Lesson5.md)
 - [Lesson 6](./Unit1/Lesson6.md)
 - [Lesson 7](./Unit1/Lesson7.md)
+- [Lesson 8](./Unit1/Lesson8.md)
