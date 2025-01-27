@@ -7,9 +7,8 @@ This form is not common in conversations and rather used in writing. For I use "
 
 | Past              | Present | Future |
 | :----------------: | :------: | :----: |
-| ~았다, ~었다, or 였아 * | ~ㄴ다 / ~는다 | ~겠다 |
-
-* [아/어](./아-어.md)
+| ~았다, ~었다, or 였아 *
+[See 아/어](./아-어.md) | ~ㄴ다 / ~는다 | ~겠다 |
 
 ## Adjectives
 
