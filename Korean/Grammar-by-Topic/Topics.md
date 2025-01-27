@@ -4,9 +4,7 @@
 
 ### General
 
-- [Sentences](./Sentences.md)
-- [Verbs](./Verbs.md)
-- [Adjectives](./Adjectives.md)
+- [Predicates](./Predicates.md)
 - [아-어](./아-어.md)
 
 ### Conjugation

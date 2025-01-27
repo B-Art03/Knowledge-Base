@@ -8,14 +8,24 @@ This form is not common in conversations and rather used in writing. For I use "
 | Past              | Present | Future |
 | :----------------: | :------: | :----: |
 | ~았다, ~었다, or 였아 * | ~ㄴ다 / ~는다 | ~겠다 |
-| [아/어](./아-어.md) |
+
+[When to use 아 or 어 (or 여여)](./아-어.md)
 
 ## Adjectives
 
 | Past | Present | Future |
 | :----------------: | :------: | :----: |
-| ~았다, ~었다, or 였아 * | ~ㄴ다 / ~는다 | ~겠다 |
+| ~았다, ~었다, or 였아 | Use Infinitive | ~겠다 |
 
-# Aspect?
+[When to use 아 or 어 (or 여여)](./아-어.md)
 
-(I haven't looked into how Korean does aspect and if it's common for this form. I'll update or remove this at a later point.)
+## 있다
+
+
+
+# Aspect
+
+(I haven't looked into how Korean does aspect and if it's common for this form. I'll update or remove this at a later point. From what I saw this won't be explained until HTSK Lesson 18)
+
+### References
+- [HTSK Lesson 5](https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-5/)
