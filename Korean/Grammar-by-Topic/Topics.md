@@ -7,12 +7,13 @@
 - [Predicates](./Predicates.md)
 - [Tense](./Tenses.md)
 - [Aspect](./Aspect.md)
-- [Honorifics](./Honorifics.md)
 - [아-어](./아-어.md)
 
 ### Conjugation
 
 - [Plain Form](./PlainForm.md)
+- [Honorifics](./Honorifics.md)
+- [IrregularConjugations](./IrregularConjugations.md)
 
 ### Special Words
 
