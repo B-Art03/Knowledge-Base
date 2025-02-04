@@ -43,3 +43,10 @@ The 으 gets replaced by ㅏ or ㅓ
 다르 + 아요 = 다 + ㄹ + 라요 = 달라요
 
 There are words that work a bit differently.
+
+## ㄹ Irregular
+
+When adding ~ㄴ/은/는, ~ㅂ/습, or ~ㄹ/을 and the stem's 받침 is an ㄹ, the ㄹ gets removed and the consonant gets directly added to the stem.
+The 으 gets replaced by ㅏ or ㅓ
+
+길 + ~ㄴ/은 = 길 + ㄴ = 긴
