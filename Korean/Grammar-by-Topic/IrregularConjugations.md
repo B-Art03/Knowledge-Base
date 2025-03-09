@@ -1,4 +1,4 @@
-# Lesson 7
+# IrregularConjugations
 
 ## ㅅ Irregular
 
@@ -44,9 +44,5 @@ The 으 gets replaced by ㅏ or ㅓ
 
 There are words that work a bit differently.
 
-## ㄹ Irregular
-
-When adding ~ㄴ/은/는, ~ㅂ/습, or ~ㄹ/을 and the stem's 받침 is an ㄹ, the ㄹ gets removed and the consonant gets directly added to the stem.
-The 으 gets replaced by ㅏ or ㅓ
-
-길 + ~ㄴ/은 = 길 + ㄴ = 긴
+### Reference
+[This is so far identicial to HTSK Lesson 7 Summary](../HTSKSummary/Unit1/Lesson7.md)
