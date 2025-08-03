@@ -1,5 +1,7 @@
 # IrregularConjugations
+[This is so far mostly identicial to HTSK Lesson 7 Summary but will be expanded soon](../HTSKSummary/Unit1/Lesson7.md)
 
+# Adding Vowels (~아/어, ~을)
 ## ㅅ Irregular
 
 The ㅅ usually gets removed. For example: 짓 + 어 = 지어
@@ -44,5 +46,14 @@ The 으 gets replaced by ㅏ or ㅓ
 
 There are words that work a bit differently.
 
+# Adding Consonants (~ㄴ/~ㅂ/~ㄹ)
+## ㄹ Irregular
+
+When adding ~ㄴ/은/는, ~ㅂ/습, or ~ㄹ/을 and the stem's 받침 is an ㄹ, the ㄹ gets removed and the consonant gets directly added to the stem.
+The 으 gets replaced by ㅏ or ㅓ
+
+길 + ~ㄴ/은 = 길 + ㄴ = 긴
+
 ### Reference
-[This is so far identicial to HTSK Lesson 7 Summary](../HTSKSummary/Unit1/Lesson7.md)
+[HTSK Lesson 7](https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-7/)
+[HTSK Lesson 9](https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/unit-1-lesson-9/)
