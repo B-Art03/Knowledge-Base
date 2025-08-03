@@ -11,6 +11,8 @@
 
 ### Conjugation
 
+- [Honorifics](./Honorifics.md)
+- [Irregulars](./Irregulars.md)
 - [Plain Form](./PlainForm.md)
 - [Honorifics](./Honorifics.md)
 - [IrregularConjugations](./IrregularConjugations.md)

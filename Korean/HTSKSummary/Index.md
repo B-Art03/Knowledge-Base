@@ -4,7 +4,7 @@ This is a summary of the chapters on https://www.howtostudykorean.com/
 
 # Table of Contents
 
-## [Unit 1](./Unit1.md)
+## [Unit 1](./Unit1/Index.md)
 
 - [Lesson 1](./Unit1/Lesson1.md)
 - [Lesson 2](./Unit1/Lesson2.md)
@@ -13,3 +13,5 @@ This is a summary of the chapters on https://www.howtostudykorean.com/
 - [Lesson 5](./Unit1/Lesson5.md)
 - [Lesson 6](./Unit1/Lesson6.md)
 - [Lesson 7](./Unit1/Lesson7.md)
+- [Lesson 8](./Unit1/Lesson8.md)
+- [Lesson 9](./Unit1/Lesson9.md)
